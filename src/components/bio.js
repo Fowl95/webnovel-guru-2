@@ -34,7 +34,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>, the author of <a href={`https://www.royalroad.com/fiction/49284/casual-heroing`}>
+              Written by <strong>Fowl</strong>, the author of <a href={`https://www.royalroad.com/fiction/49284/casual-heroing`}>
                 Casual Heroing
               </a>.
               {` `}
