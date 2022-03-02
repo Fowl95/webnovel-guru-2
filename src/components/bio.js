@@ -34,10 +34,11 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>, a framework built upon the
-              React library.
+              Written by <strong>{author}</strong>, the author of <a href={`https://www.royalroad.com/fiction/49284/casual-heroing`}>
+                Casual Heroing
+              </a>.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
+              <a href={`https://twitter.com/therealfowl`}>
                 Follow me on Twitter
               </a>
             </p>
