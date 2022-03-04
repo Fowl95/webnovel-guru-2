@@ -1,6 +1,8 @@
 backend:
   name: github
-  repo: thomaswang/gatsby-personal-starter-blog
+  repo: Fowl95/webnovel-guru-2
+  branch: master
+
 
 media_folder: content/assets
 public_folder: ../assets
